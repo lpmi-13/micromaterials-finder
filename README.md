@@ -8,9 +8,18 @@ this finds micromaterials
 
 - networking
 - git
+- natural language processing
 
 ### language
 
-- stress
-- regular ed verbs
+- stress patterns
+- writing
+- reading
+- speaking
+- listening
 - rhymes
+- vocabulary
+
+### math
+
+- graphing
