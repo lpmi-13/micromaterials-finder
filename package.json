@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "micromaterials-finder",
+  "private": false,
+  "description": "A place to list the micromaterials currently available on github",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Adam Leskis <leskis@gmail.com>",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-image": "^2.3.1",
@@ -24,7 +24,10 @@
     "prettier": "^1.19.1"
   },
   "keywords": [
-    "gatsby"
+    "micromaterials",
+    "EdTech",
+    "Ed",
+    "Tech"
   ],
   "license": "MIT",
   "scripts": {
@@ -38,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/lpmi-13/micromaterials-finder"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/lpmi-13/micromaterials-finder/issues"
   }
 }
