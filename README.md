@@ -1,6 +1,6 @@
 # Micromaterials
 
-this finds micromaterials
+this finds micromaterials based on the topic in the GitHub repository
 
 live at [https://micromaterials.org](https://micromaterials.org)
 

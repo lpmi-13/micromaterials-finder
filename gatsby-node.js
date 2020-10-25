@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const REQUEST_URL = 'https://api.github.com/search/issues?q=label:micromaterial&sort=created&order=asc'
+const REQUEST_URL = 'https://api.github.com/search/repositories?q=topic:micromaterials&sort=created&order=asc'
 
 exports.createPages = async ({ actions: { createPage } }) => {
   // get all the micromaterials data from github

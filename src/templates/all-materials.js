@@ -11,7 +11,7 @@ export default ({ pageContext: { allMaterials } }) => (
     <p>{allMaterials.total_count} micromaterials so far...</p>
     <ul className="pr-list">
        {allMaterials.items.map(item => (
-         <MicromaterialUrlItem key={item.html_url} labels={item.labels} url={item.html_url.split('issues')[0]} />
+         <MicromaterialUrlItem key={item.html_url} description={item.description} url={item.html_url} />
        ))}
     </ul>
   </Layout>
